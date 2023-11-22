@@ -10,7 +10,6 @@ function Banner() {
                  <Box>
                  <Typography sx={{  color: "#100F1A", fontSize: "2.5rem", fontWeight: "700", textTransform: "uppercase"  }}>Workout Essential </Typography>
                  <Typography sx={{  color: "#100F1A", fontSize: "2.5rem", fontWeight: "700", textTransform: "uppercase"   }}>supplements  </Typography>
-                 
                  <Typography sx={{ fontSize: "0.8rem", color: "#1E1E1E", mt: 1 }} >In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface.</Typography>
                  <Button
             
