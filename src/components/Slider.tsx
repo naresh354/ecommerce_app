@@ -1,14 +1,10 @@
 import {
-  Card,
-  CardMedia,
   CardContent,
   Typography,
   Box,
-  CardActions,
   Button,
   Grid,
 } from "@mui/material";
-import React from "react";
 import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
 import SliderImage from "../assets/Sliderimage.png";
 

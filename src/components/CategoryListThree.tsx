@@ -1,5 +1,3 @@
-import React from "react";
-
 import Category1 from "../assets/list1.png";
 import Category2 from "../assets/list2.png";
 import Category3 from "../assets/list3.png";
@@ -13,9 +11,7 @@ import {
   CardMedia,
   Typography,
 } from "@mui/material";
-import Cart from "../assets/Cart.png";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
-import CurrencyRupeeIcon from "@mui/icons-material/CurrencyRupee";
 import heart from "../assets/heartTwo.png";
 import share from "../assets/share.png";
 

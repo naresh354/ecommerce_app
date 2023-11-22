@@ -1,5 +1,3 @@
-import React from "react";
-
 import Category1 from "../assets/list1.png";
 import Category2 from "../assets/list2.png";
 import Category3 from "../assets/list3.png";
@@ -16,7 +14,6 @@ import {
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import heart from "../assets/heartTwo.png";
 import share from "../assets/share.png";
-import sliderImage from "../assets/priceTag.png"
 
 const CategoryItems = [
   {

@@ -1,5 +1,5 @@
-import { Box, Grid, TextField, Typography } from "@mui/material";
-import React from "react";
+import { Box, TextField, Typography } from "@mui/material";
+
 
 function FooterDiscount() {
   return (
